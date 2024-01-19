@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at majoring in Data Mining and Machine Learning at KAIST. I have been very fortunate to be advised by Professor Kijung Shin.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data Mining:** graph mining, social network analysis, algorithm design.
+- **Machine Learning:** generative AI, NLP, unsupervised learning.
+- - **Applied Mathematics:** convex optimization, discrete optimization, statistics, probability.
 
 ## News
 
