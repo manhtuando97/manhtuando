@@ -2,11 +2,8 @@ main:
 
   - title: "Unsupervised Matching of Higher-order Networks"
     authors: <strong>Manh Tuan Do*</strong>, Kijung Shin* (*Corresponding author)
-    conference_short: Under Reviews.
+    conference_short: Under Reviews
     conference: Pre-print <strong>(Under Reviews)</strong, 2023.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/alignment.PNG
     
 
@@ -16,8 +13,6 @@ main:
     conference: Data Mining and Knowledge Discovery Journal <strong>(DAMI)</strong>, 2023.
     paper: https://link.springer.com/article/10.1007/s10618-023-00958-0
     code: https://github.com/manhtuando97/CoReA
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/core.PNG
 
 
@@ -27,8 +22,6 @@ main:
     conference: Neural Processing Letters Journal <strong>(NPL)</strong>, 2023.
     paper: https://link.springer.com/article/10.1007/s11063-022-10985-5
     code: https://github.com/manhtuando97/two-stage-gnn
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/gnn.PNG
 
 
@@ -38,6 +31,4 @@ main:
     conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2020.
     paper: https://dl.acm.org/doi/10.1145/3394486.3403060
     code: https://github.com/manhtuando97/KDD-20-Hypergraph
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/decomposition.PNG
