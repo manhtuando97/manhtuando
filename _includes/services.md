@@ -9,8 +9,7 @@
 <h4 style="margin:0 10px 0;">Teaching Assistantship</h4>
 
 <ul style="margin:0 0 20px;">
-  <autocolor>AI607: Graph Mining and Social Network Analysis</autocolor>
-  <li><a href="https://sites.google.com/view/ai607/home"><autocolor>2023 Fall</autocolor></a></li>, <li><a href="https://sites.google.com/view/ai607-2019fall/home"><autocolor>2020 Fall</autocolor></a></li>
+  <li><autocolor>AI607: Graph Mining and Social Network Analysis</autocolor>: <a href="https://sites.google.com/view/ai607/home"><autocolor>2023 Fall</autocolor></a></li>, <a href="https://sites.google.com/view/ai607-2019fall/home"><autocolor>2020 Fall</autocolor></a>
   <autocolor>EE210: Probability and Introductory Random Processes</autocolor>
   <li><a href="https://sites.google.com/view/ee210/home"><autocolor>EE210: Probability and Introductory Random Processes</autocolor></a></li>
 </ul>
