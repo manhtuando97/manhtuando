@@ -10,7 +10,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>AI607 - Graph Mining and Social Network Analysis</autocolor>: <a href="https://sites.google.com/view/ai607/home"><autocolor>2023 Fall</autocolor></a></li>, <a href="https://sites.google.com/view/ai607-2019fall/home"><autocolor>2020 Fall</autocolor></a>
-  <li><autocolor>EE210 - Probability and Introductory Random Processes</autocolor>: <a href="https://sites.google.com/view/ee210/home"><autocolor>EE210: Probability and Introductory Random Processes</autocolor></a></li>
+  <li><autocolor>EE210 - Probability and Introductory Random Processes</autocolor>: <a href="https://sites.google.com/view/ee210/home"><autocolor>2020 Fall</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference (Sub)-Reviewership</h4>
