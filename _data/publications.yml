@@ -1,7 +1,7 @@
 main:
 
   - title: "Unsupervised Matching of Higher-order Networks"
-    authors: <strong>Manh Tuan Do*</strong>, Kijung Shin* (*Corresponding author)
+    authors: <strong>Manh Tuan Do</strong>, Kijung Shin* (*Corresponding author)
     conference_short: Under Reviews
     conference: Pre-print <strong>(Under Reviews)</strong>, 2023.
     image: ./assets/img/alignment.PNG
