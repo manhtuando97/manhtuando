@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at majoring in Data Mining and Machine Learning at KAIST. I have been very fortunate to be advised by Professor Kijung Shin.
+I am a Ph.D. student at Kim Jaechul Graduate School of AI, KAIST. My major research interests include Data Mining, Social Network Analysis, and Machine Learning. I have been very fortunate to be advised by [Professor Kijung Shin](https://kijungs.github.io/).
 
 ## Research Interests
 
-- **Data Mining:** graph mining, social network analysis, algorithm design.
-- **Machine Learning:** generative AI, NLP, unsupervised learning.
-- - **Applied Mathematics:** convex optimization, discrete optimization, statistics, probability.
+- **Data Mining:** hypergraph mining, social network analysis, algorithm design.
+- **Machine Learning:** generative AI, NLP, interpretability.
+- **Applied Mathematics:** optimization, statistics, probability.
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2019 - Present]** Integrated M.S. - Ph.D. in Artificial Intelligence (KAIST).
+- **[Sep. 2015 - Aug. 2019]** B.S. in Electrical Engineering & Mathematics (KAIST).
 
 {% include_relative _includes/publications.md %}
 
