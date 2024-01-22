@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Kim Jaechul Graduate School of AI, KAIST. My major research interests include Data Mining, Social Network Analysis, and Machine Learning. I have been very fortunate to be advised by [Professor Kijung Shin](https://kijungs.github.io/).
+I am a Ph.D. student at Kim Jaechul Graduate School of AI, KAIST. My major research interests include Data Mining, Social Network Analysis, and Machine Learning. I have been very fortunate to be advised by [Professor Kijung Shin](https://kijungs.github.io/) at [Data Mining Lab](https://sites.google.com/view/kaistdata/team?authuser=0).
 
 ## Research Interests
 
