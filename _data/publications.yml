@@ -2,8 +2,8 @@ main:
 
   - title: "Unsupervised Alignment of Hypergraphs with Different Scales"
     authors: <strong>Manh Tuan Do</strong>, Kijung Shin* (*Corresponding author)
-    conference_short: Under Reviews
-    conference: Pre-print <strong>(Under Reviews)</strong>, 2023.
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2024 (To Appear).
     image: ./assets/img/alignment.PNG
     
 
